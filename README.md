@@ -11,5 +11,3 @@ git commit -m <mesaage>
 #### PS
 
 git is awesome
-
-## Pathan added this line here
